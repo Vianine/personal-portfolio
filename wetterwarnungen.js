@@ -1,3 +1,5 @@
+
+
 class
 WetterWarnungen {
     constructor() {
